@@ -1,4 +1,4 @@
-# Multi-domain SSL/TLS certificates using Certbot and Let's Encrypt
+# letsencrypt.sh
 
 (c) Niki Kovacs 2019
 
