@@ -44,7 +44,7 @@ WEBDIR[7]='otherdomain-mail'
 
 # Display the usage.
 usage() {
-  echo "Usage: ${0} [OPTION]"
+  echo "Usage: ${0} OPTION"
   echo 'Create or renew an SSL/TLS certificate.'
   echo 'Options:'
   echo '  -h, --help    Show this message.'
